@@ -1,5 +1,9 @@
 [
   {
+    "package": "leafletCN",
+    "oncran": true
+  },
+  {
     "package": "wordcloud2",
     "oncran": true
   }
